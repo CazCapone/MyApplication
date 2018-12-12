@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">My Application</string>
+
+
+    <string name="calendar_button">Calendar</string>
+    <string name="list_button">Tasks / Lists</string>
+    <string name="group_button">Manage Groups</string>
+
+    <string name="test_button">Test</string>
+    <string name="test_text">Testing</string>
+    <string name="google_button">Google</string>
+
+    <string-array name="items">
+        <item>taco</item>
+        <item>peppers</item>
+        <item>cheese</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$1.49</item>
+        <item>$.75</item>
+        <item>$2.99</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>tacos are awesome</item>
+        <item>peppers are hot</item>
+        <item>cheese is delicious</item>
+    </string-array>
+
 </resources>
