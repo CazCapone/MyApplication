@@ -9,6 +9,9 @@
     <string name="test_button">Test</string>
     <string name="test_text">Testing</string>
     <string name="google_button">Google</string>
+    <string name="sql_button">SQL</string>
+    <string name="data_button">Get Data</string>
+    <string name="progress_textview">Progress</string>
 
     <string-array name="items">
         <item>taco</item>
@@ -27,5 +30,7 @@
         <item>peppers are hot</item>
         <item>cheese is delicious</item>
     </string-array>
+    <string name="title_activity_my_sql">MySQLActivity</string>
+
 
 </resources>
