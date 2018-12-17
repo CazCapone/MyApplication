@@ -3,7 +3,6 @@ package com.example.jduclos1.myapplication;
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
-import android.drm.DrmStore;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
@@ -21,7 +20,6 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.concurrent.BrokenBarrierException;
 
 public class mainActivity extends AppCompatActivity {
 
